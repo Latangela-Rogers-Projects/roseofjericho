@@ -1,0 +1,60 @@
+
+
+/* About HeroSection CSS */
+.AH-container{
+    position: relative;
+    overflow: hidden;
+}
+
+.AH-stickerContainer {
+    position: relative;
+}
+
+.AH-sticker {
+    position: absolute;
+    top: 15%;
+    right: 0px;
+    height: 80%;
+    width: 110%;
+    background-color: #350C41;
+    border-top-left-radius: 50vw;
+    border-bottom-left-radius: 50vw;
+}
+
+.AH-sticker2 {
+    position: absolute;
+    top: 10%;
+    left: 0px;
+    height: 80%;
+    width: 110%;
+    background-color: #350C41;
+    border-top-right-radius: 50vw;
+    border-bottom-right-radius: 50vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clip-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  }

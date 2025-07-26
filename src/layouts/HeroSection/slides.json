@@ -1,0 +1,57 @@
+[
+  {
+    "image": "1_fg.png",
+    "image_bg": "1_bg.png",
+    "title": "Personalized Coaching",
+    "heading": "Tailored support for your growth",
+    "subHeading": "focuses on customized guidance, offering structured support to enhance growth, improve skills, and navigate personal and professional challenges effectively.",
+    "customStyle": {
+      "top": "0%",
+      "left": "0%",
+      "text": {
+        "left": "40%",
+        "width": "50%"
+      }
+    }
+  },
+  {
+    "image": "3_fg.png",
+    "image_bg": "3_bg.png",
+    "title": "Self-Awareness and Growth",
+    "heading": "Empowering Individuals and Communities",
+    "subHeading": "Unlock your potential through transformative leadership",
+    "heading2": "Building Emotional Resilience and Leadership",
+    "subHeading2": "Developing the mindset to connect and collaborate, with teams.",
+    "customStyle": {
+      "top": "0%",
+      "left": "0%",
+      "text": {
+        "left": "6%",
+        "width": "20%"
+      }
+    },
+    "customStyle2": {
+      "top": "0%",
+      "left": "0%",
+      "text": {
+        "right": "5%",
+        "width": "20%"
+      }
+    }
+  },
+  {
+    "image": "4_fg.png",
+    "image_bg": "4_bg.png",
+    "title": "Strategic Thinking",
+    "heading": "Mastering the art of vision and decision-making",
+    "subHeading": "explores how foresight, adaptability, and well-informed choices shape success, empowering individuals to navigate challenges and seize opportunities effectively.",
+    "customStyle": {
+      "top": "0%",
+      "left": "0%",
+      "text": {
+        "left": "10%",
+        "width": "50%"
+      }
+    }
+  }
+]

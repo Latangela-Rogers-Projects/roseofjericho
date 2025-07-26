@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'font-allura';
+  src: url(../public/assets/fonts/Allura-Regular.ttf);
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fonseca_thin';
+  src: url(../public/assets/fonts/Fonseca-Thin.otf);
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fonseca';
+  src: url(../public/assets/fonts/Fonseca-Regular.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fonseca_bold';
+  src: url(../public/assets/fonts/Fonseca-Black.otf);
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Phosphate';
+  src: url(../public/assets/fonts/Phosphate.ttc);
+  font-weight: lighter;
+  font-style: normal;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.font-allura {
+  font-family: font-allura;
+}
+.fonseca {
+  font-family: fonseca;
+}
+.fonseca-bold {
+  font-family: fonseca_bold;
+}
+.fonseca-thin {
+  font-family: fonseca_thin;
+}
+.fonseca_bold {
+  font-family: fonseca_bold;
+}
+.fonseca_thin {
+  font-family: fonseca_thin;
+}
+.font-phosphate {
+  font-family: Phosphate;
+}
