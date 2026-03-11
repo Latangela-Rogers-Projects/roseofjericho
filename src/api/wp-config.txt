@@ -1,0 +1,4 @@
+MySQL DB Name: if0_40976737_toyfront
+MySQL User Name: if0_40976737
+MySQL Password
+MySQL Host Name: sql307.infinityfree.com
